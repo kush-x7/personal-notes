@@ -2,9 +2,9 @@
 ## 1. Java Basics
 
 [[1.1 Overview of Java]]
-1.2 Installing Java Development Kit (JDK)
-1.3 Your first "Hello World" program
-1.4 Basic syntax (variables, data types, operators)
+[[1.2 Statically Types VS Dynamically Typed]]
+[[1.3 Primitive & Non Primitive data Type]]
+1.2 Basic syntax (variables, data types, operators)
 
 ## 2. Control Flow Statements
 
@@ -48,3 +48,11 @@
 8.1 Code formatting and style
 8.2 Naming conventions
 8.3 Comments and documentation
+
+
+## Extra 
+Producer-Consumer Problem (Multithreading)
+Inter thread communication
+
+
+
