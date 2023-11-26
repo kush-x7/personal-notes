@@ -1,5 +1,6 @@
 {
   "legacyEditor": false,
   "strictLineBreaks": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true
 }
