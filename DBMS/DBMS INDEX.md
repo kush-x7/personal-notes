@@ -11,7 +11,17 @@
 - [[Rows]]
 - [[Declarative Vs Imperative]]
 - [[Foreign Key Vs Primary Key]]
-  [[OLTP vs OLAP]]
+-  [[OLTP vs OLAP]]
+- [[DDL, DQL,  DML,  DCL]]
+ [[Temp Column Name]]
+ [[Column Cancatenation]]
+ [[Aggregate Function VS Scalar Function]]
+ [[comments]]
+ [["' '" VS ' ']]
+ [[AND vs OR]]
+ [[NOT]]
+ [[Comparison]]
+ 
   
   - NoSQL Databases
   - Object-Oriented Databases
